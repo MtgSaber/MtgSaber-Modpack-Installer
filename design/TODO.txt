@@ -1,0 +1,2 @@
+- alter db to add filename attributes for all file URL attributes. Modify all affected Queries and code to accomodate.
+- finish the DLD_MODS process.

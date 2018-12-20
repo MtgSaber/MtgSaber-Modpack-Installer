@@ -40,3 +40,9 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+*.iml
+.idea/libraries/MtgSaberLib_v1_2_0.xml
+*.xml
+.idea/vcs.xml
+*.xml
+TestAppDir/modpacks/TestModpackVersion/config_TestModpackVersion
